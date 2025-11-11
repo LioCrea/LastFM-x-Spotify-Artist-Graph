@@ -94,7 +94,6 @@ You can open it in your browser — drag nodes around, hover over tracks, and ex
 ## Example Output – “Headhunterz”
 
 Below is an example generated for the artist **Headhunterz**, showing his top tracks connected to those of related artists such as **Brennan Heart**, **Coone**, **Wildstylez**, **Frontliner**, etc.
-_Estimated beats and BPM of Headhunterz - Destiny_:
 
 ![Result](https://github.com/LioCrea/LastFM-x-Spotify-Artist-Graph/blob/main/pictures/headunterz-similars.png)
 
