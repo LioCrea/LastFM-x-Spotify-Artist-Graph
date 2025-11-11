@@ -122,15 +122,6 @@ You can adjust parameters in `main.py`:
 
 ---
 
-## Example Output
-
-For example, running the script with:
-```python
-artist = "Daft Punk"
-```
-Generates a network linking **Daft Punk**’s top tracks with similar artists like **Justice**, **Digitalism**, and **Madeon**, showing shared genres like *electronic*, *house*, and *french touch*.
-
----
 
 ## Future Improvements
 
